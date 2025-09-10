@@ -1,0 +1,5 @@
+C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\obj\Debug\net8.0\Week 3 Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\obj\Debug\net8.0\Week 3 Assignment.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\obj\Debug\net8.0\Week 3 Assignment.AssemblyInfo.cs
+C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\obj\Debug\net8.0\Week 3 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\obj\Debug\net8.0\Week 3 Assignment.sourcelink.json
