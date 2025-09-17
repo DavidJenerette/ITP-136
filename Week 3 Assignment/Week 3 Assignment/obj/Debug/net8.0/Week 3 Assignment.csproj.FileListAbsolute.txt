@@ -3,3 +3,13 @@ C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\obj\Debu
 C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\obj\Debug\net8.0\Week 3 Assignment.AssemblyInfo.cs
 C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\obj\Debug\net8.0\Week 3 Assignment.csproj.CoreCompileInputs.cache
 C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\obj\Debug\net8.0\Week 3 Assignment.sourcelink.json
+C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\bin\Debug\net8.0\Week 3 Assignment.exe
+C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\bin\Debug\net8.0\Week 3 Assignment.deps.json
+C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\bin\Debug\net8.0\Week 3 Assignment.runtimeconfig.json
+C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\bin\Debug\net8.0\Week 3 Assignment.dll
+C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\bin\Debug\net8.0\Week 3 Assignment.pdb
+C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\obj\Debug\net8.0\Week 3 Assignment.dll
+C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\obj\Debug\net8.0\refint\Week 3 Assignment.dll
+C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\obj\Debug\net8.0\Week 3 Assignment.pdb
+C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\obj\Debug\net8.0\Week 3 Assignment.genruntimeconfig.cache
+C:\Users\David\source\repos\ITP-136\Week 3 Assignment\Week 3 Assignment\obj\Debug\net8.0\ref\Week 3 Assignment.dll
