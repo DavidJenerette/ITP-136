@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\ITP-136\Week 5 Assignment\Week 5 Assignment\bin\Debug\net8.0\Week 5 Assignment.exe
+C:\Users\David\source\repos\ITP-136\Week 5 Assignment\Week 5 Assignment\bin\Debug\net8.0\Week 5 Assignment.deps.json
+C:\Users\David\source\repos\ITP-136\Week 5 Assignment\Week 5 Assignment\bin\Debug\net8.0\Week 5 Assignment.runtimeconfig.json
+C:\Users\David\source\repos\ITP-136\Week 5 Assignment\Week 5 Assignment\bin\Debug\net8.0\Week 5 Assignment.dll
+C:\Users\David\source\repos\ITP-136\Week 5 Assignment\Week 5 Assignment\bin\Debug\net8.0\Week 5 Assignment.pdb
+C:\Users\David\source\repos\ITP-136\Week 5 Assignment\Week 5 Assignment\obj\Debug\net8.0\Week 5 Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\ITP-136\Week 5 Assignment\Week 5 Assignment\obj\Debug\net8.0\Week 5 Assignment.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ITP-136\Week 5 Assignment\Week 5 Assignment\obj\Debug\net8.0\Week 5 Assignment.AssemblyInfo.cs
+C:\Users\David\source\repos\ITP-136\Week 5 Assignment\Week 5 Assignment\obj\Debug\net8.0\Week 5 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ITP-136\Week 5 Assignment\Week 5 Assignment\obj\Debug\net8.0\Week 5 Assignment.sourcelink.json
+C:\Users\David\source\repos\ITP-136\Week 5 Assignment\Week 5 Assignment\obj\Debug\net8.0\Week 5 Assignment.dll
+C:\Users\David\source\repos\ITP-136\Week 5 Assignment\Week 5 Assignment\obj\Debug\net8.0\refint\Week 5 Assignment.dll
+C:\Users\David\source\repos\ITP-136\Week 5 Assignment\Week 5 Assignment\obj\Debug\net8.0\Week 5 Assignment.pdb
+C:\Users\David\source\repos\ITP-136\Week 5 Assignment\Week 5 Assignment\obj\Debug\net8.0\Week 5 Assignment.genruntimeconfig.cache
+C:\Users\David\source\repos\ITP-136\Week 5 Assignment\Week 5 Assignment\obj\Debug\net8.0\ref\Week 5 Assignment.dll

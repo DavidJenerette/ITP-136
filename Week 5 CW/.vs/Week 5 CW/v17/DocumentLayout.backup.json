@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 5 CW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC512BC-F34A-48B1-87C3-6391EB96A667}|Week 5 CW\\Week 5 CW.csproj|c:\\users\\david\\source\\repos\\itp-136\\week 5 cw\\week 5 cw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC512BC-F34A-48B1-87C3-6391EB96A667}|Week 5 CW\\Week 5 CW.csproj|solutionrelative:week 5 cw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 5 CW\\Week 5 CW\\Program.cs",
+              "RelativeDocumentMoniker": "Week 5 CW\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 5 CW\\Week 5 CW\\Program.cs",
+              "RelativeToolTip": "Week 5 CW\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:01:13.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

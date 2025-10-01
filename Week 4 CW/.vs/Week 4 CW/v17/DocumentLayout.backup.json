@@ -14,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 4 CW\\Week 4 CW\\Program.cs",
-              "RelativeDocumentMoniker": "Week 4 CW\\Program.cs",
-              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 4 CW\\Week 4 CW\\Program.cs*",
-              "RelativeToolTip": "Week 4 CW\\Program.cs*",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwD4AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T01:23:14.823Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -36,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 4 CW\\Week 4 CW\\Program.cs",
+              "RelativeDocumentMoniker": "Week 4 CW\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 4 CW\\Week 4 CW\\Program.cs",
+              "RelativeToolTip": "Week 4 CW\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:23:14.823Z",
+              "EditorCaption": ""
             }
           ]
         }
