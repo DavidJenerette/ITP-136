@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             int a, b;
+            a = 7;
             WelcomeMessage();
             for (int k = 0; k < 3; k++)
             {
