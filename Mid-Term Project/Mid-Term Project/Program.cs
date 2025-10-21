@@ -18,8 +18,10 @@ namespace Mid_Term_Project
             Date = Convert.ToString(Console.ReadLine());
 
             BagTotal = Baggage();
+            Console.WriteLine("--Press Enter to Continue--");
             Console.ReadKey();
             SeatTotal = Seats();
+            Console.WriteLine("--Press Enter to Continue--");
             Console.ReadKey();
             Receipt(BagTotal, SeatTotal, Name, Address, Date);
         }
