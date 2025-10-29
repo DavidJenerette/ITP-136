@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\ITP-136\Week 9 CW\Week 9 CW\bin\Debug\net8.0\Week 9 CW.exe
+C:\Users\David\source\repos\ITP-136\Week 9 CW\Week 9 CW\bin\Debug\net8.0\Week 9 CW.deps.json
+C:\Users\David\source\repos\ITP-136\Week 9 CW\Week 9 CW\bin\Debug\net8.0\Week 9 CW.runtimeconfig.json
+C:\Users\David\source\repos\ITP-136\Week 9 CW\Week 9 CW\bin\Debug\net8.0\Week 9 CW.dll
+C:\Users\David\source\repos\ITP-136\Week 9 CW\Week 9 CW\bin\Debug\net8.0\Week 9 CW.pdb
+C:\Users\David\source\repos\ITP-136\Week 9 CW\Week 9 CW\obj\Debug\net8.0\Week 9 CW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\ITP-136\Week 9 CW\Week 9 CW\obj\Debug\net8.0\Week 9 CW.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ITP-136\Week 9 CW\Week 9 CW\obj\Debug\net8.0\Week 9 CW.AssemblyInfo.cs
+C:\Users\David\source\repos\ITP-136\Week 9 CW\Week 9 CW\obj\Debug\net8.0\Week 9 CW.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ITP-136\Week 9 CW\Week 9 CW\obj\Debug\net8.0\Week 9 CW.sourcelink.json
+C:\Users\David\source\repos\ITP-136\Week 9 CW\Week 9 CW\obj\Debug\net8.0\Week 9 CW.dll
+C:\Users\David\source\repos\ITP-136\Week 9 CW\Week 9 CW\obj\Debug\net8.0\refint\Week 9 CW.dll
+C:\Users\David\source\repos\ITP-136\Week 9 CW\Week 9 CW\obj\Debug\net8.0\Week 9 CW.pdb
+C:\Users\David\source\repos\ITP-136\Week 9 CW\Week 9 CW\obj\Debug\net8.0\Week 9 CW.genruntimeconfig.cache
+C:\Users\David\source\repos\ITP-136\Week 9 CW\Week 9 CW\obj\Debug\net8.0\ref\Week 9 CW.dll
