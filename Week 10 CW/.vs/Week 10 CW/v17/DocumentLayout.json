@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 10 CW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{054ED3C2-03D4-41D0-B176-6645780F6E96}|Week 10 CW\\Week 10 CW.csproj|c:\\users\\david\\source\\repos\\itp-136\\week 10 cw\\week 10 cw\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054ED3C2-03D4-41D0-B176-6645780F6E96}|Week 10 CW\\Week 10 CW.csproj|solutionrelative:week 10 cw\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054ED3C2-03D4-41D0-B176-6645780F6E96}|Week 10 CW\\Week 10 CW.csproj|c:\\users\\david\\source\\repos\\itp-136\\week 10 cw\\week 10 cw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054ED3C2-03D4-41D0-B176-6645780F6E96}|Week 10 CW\\Week 10 CW.csproj|solutionrelative:week 10 cw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 10 CW\\Week 10 CW\\Employee.cs",
+              "RelativeDocumentMoniker": "Week 10 CW\\Employee.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 10 CW\\Week 10 CW\\Employee.cs",
+              "RelativeToolTip": "Week 10 CW\\Employee.cs",
+              "ViewState": "AgIAAAEAAABAvNs+xg4RwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:14:24.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 10 CW\\Week 10 CW\\Program.cs",
+              "RelativeDocumentMoniker": "Week 10 CW\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 10 CW\\Week 10 CW\\Program.cs",
+              "RelativeToolTip": "Week 10 CW\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:11:07.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
