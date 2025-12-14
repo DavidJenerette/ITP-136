@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{507851A3-BEB9-401F-8EB1-D2BF466687E1}|Week 14 Assignment\\Week 14 Assignment.csproj|c:\\users\\david\\source\\repos\\itp-136\\week 14 assignment\\week 14 assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{507851A3-BEB9-401F-8EB1-D2BF466687E1}|Week 14 Assignment\\Week 14 Assignment.csproj|solutionrelative:week 14 assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{507851A3-BEB9-401F-8EB1-D2BF466687E1}|Week 14 Assignment\\Week 14 Assignment.csproj|c:\\users\\david\\source\\repos\\itp-136\\week 14 assignment\\week 14 assignment\\designs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{507851A3-BEB9-401F-8EB1-D2BF466687E1}|Week 14 Assignment\\Week 14 Assignment.csproj|solutionrelative:week 14 assignment\\designs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{507851A3-BEB9-401F-8EB1-D2BF466687E1}|Week 14 Assignment\\Week 14 Assignment.csproj|c:\\users\\david\\source\\repos\\itp-136\\week 14 assignment\\week 14 assignment\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{507851A3-BEB9-401F-8EB1-D2BF466687E1}|Week 14 Assignment\\Week 14 Assignment.csproj|solutionrelative:week 14 assignment\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{507851A3-BEB9-401F-8EB1-D2BF466687E1}|Week 14 Assignment\\Week 14 Assignment.csproj|c:\\users\\david\\source\\repos\\itp-136\\week 14 assignment\\week 14 assignment\\decorations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{507851A3-BEB9-401F-8EB1-D2BF466687E1}|Week 14 Assignment\\Week 14 Assignment.csproj|solutionrelative:week 14 assignment\\decorations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,52 +26,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 14 Assignment\\Week 14 Assignment\\Order.cs",
-              "RelativeDocumentMoniker": "Week 14 Assignment\\Order.cs",
-              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 14 Assignment\\Week 14 Assignment\\Order.cs",
-              "RelativeToolTip": "Week 14 Assignment\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T22:10:33.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Decorations.cs",
-              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 14 Assignment\\Week 14 Assignment\\Decorations.cs",
-              "RelativeDocumentMoniker": "Week 14 Assignment\\Decorations.cs",
-              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 14 Assignment\\Week 14 Assignment\\Decorations.cs",
-              "RelativeToolTip": "Week 14 Assignment\\Decorations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T21:46:22.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Designs.cs",
-              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 14 Assignment\\Week 14 Assignment\\Designs.cs",
-              "RelativeDocumentMoniker": "Week 14 Assignment\\Designs.cs",
-              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 14 Assignment\\Week 14 Assignment\\Designs.cs",
-              "RelativeToolTip": "Week 14 Assignment\\Designs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T21:45:56.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 14 Assignment\\Week 14 Assignment\\Program.cs",
               "RelativeDocumentMoniker": "Week 14 Assignment\\Program.cs",
               "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 14 Assignment\\Week 14 Assignment\\Program.cs",
               "RelativeToolTip": "Week 14 Assignment\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAowCYAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T21:38:50.165Z",
               "EditorCaption": ""

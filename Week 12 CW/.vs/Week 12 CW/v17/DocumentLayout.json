@@ -34,12 +34,11 @@
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 12 CW\\Week 12 CW\\Employee.cs",
               "RelativeDocumentMoniker": "Week 12 CW\\Employee.cs",
-              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 12 CW\\Week 12 CW\\Employee.cs*",
-              "RelativeToolTip": "Week 12 CW\\Employee.cs*",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 12 CW\\Week 12 CW\\Employee.cs",
+              "RelativeToolTip": "Week 12 CW\\Employee.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T23:15:56.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T23:15:56.756Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "Week 12 CW\\Program.cs",
               "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-136\\Week 12 CW\\Week 12 CW\\Program.cs",
               "RelativeToolTip": "Week 12 CW\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAADwvyoAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvyoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T23:14:06.316Z",
               "EditorCaption": ""
